@@ -1,0 +1,16 @@
+/Users/rotaruanastasia/Desktop/lab1.TMSP/bin/Debug/net10.0/TMPS
+/Users/rotaruanastasia/Desktop/lab1.TMSP/bin/Debug/net10.0/TMPS.deps.json
+/Users/rotaruanastasia/Desktop/lab1.TMSP/bin/Debug/net10.0/TMPS.runtimeconfig.json
+/Users/rotaruanastasia/Desktop/lab1.TMSP/bin/Debug/net10.0/TMPS.runtimeconfig.dev.json
+/Users/rotaruanastasia/Desktop/lab1.TMSP/bin/Debug/net10.0/TMPS.dll
+/Users/rotaruanastasia/Desktop/lab1.TMSP/bin/Debug/net10.0/TMPS.pdb
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.AssemblyInfoInputs.cache
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.AssemblyInfo.cs
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.csproj.CoreCompileInputs.cache
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.dll
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/refint/TMPS.dll
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.pdb
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.genruntimeconfig.cache
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/ref/TMPS.dll
+/Users/rotaruanastasia/Desktop/lab1.TMSP/obj/Debug/net10.0/TMPS.csproj.Up2Date
